@@ -1,5 +1,8 @@
 # Lab - JS RESTCountries
 
+live - https://abdulaziz-mi.github.io/w9d3_lab_countries/
+
+
 We've explored the fundamentals of JavaScript and had a refresher of HTML and CSS, so now that we're familiar with the DOM, let's take this all a step further and attempt to bring all together.
 
 Using an external API, let's begin constructing a front-end app which populates a page with dynamic information which we can then filter. We're talking **`fetch()` requests**, we're talking **DOM manipulation** and we're talking **user input**.
